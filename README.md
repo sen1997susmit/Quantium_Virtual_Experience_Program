@@ -1,3 +1,4 @@
+## [Job Simulation Completion Certificate](https://github.com/sen1997susmit/BCG-Data-Science-Advanced-Analytics-Virtual-Experience-Program/blob/main/BCG_data%20science.pdf)
 # Quantium Virtual Experience Program in Data Analytics
 
 - This is program consists of 3 tasks 
